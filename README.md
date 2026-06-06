@@ -7,3 +7,5 @@ Multiple machine learning models such as **Logistic Regression** and **Naive-Bay
 **Logistic regression** model gives the highest accuracy.
 
 The classification accuracy is **80%**.
+
+Edited locally.
