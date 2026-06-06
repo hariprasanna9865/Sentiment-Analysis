@@ -9,3 +9,4 @@ Multiple machine learning models such as **Logistic Regression** and **Naive-Bay
 The classification accuracy is **80%**.
 
 Edited locally.
+Edited on Github.
