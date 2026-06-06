@@ -4,4 +4,6 @@ The objective of this project is to classify the reviews whether it is a good re
 
 Multiple machine learning models such as **Logistic Regression** and **Naive-Bayes Model** are used to improve the performance of the classification.
 
-**Logistic regression** model is used to get higher accuracy.
+**Logistic regression** model gives the highest accuracy.
+
+The classification accuracy is **80%**.
