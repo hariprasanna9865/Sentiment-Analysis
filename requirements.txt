@@ -1,4 +1,0 @@
-python
-jupyter Notebook
-pandas
-numpy
